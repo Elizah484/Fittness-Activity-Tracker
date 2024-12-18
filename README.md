@@ -1,3 +1,5 @@
+https://elizah484.github.io/Fittness-Activity-Tracker/ The link will guide my users to my website .I hope you will have a nice time using my website since my motto is MAKING OUR LIVES EASIER TO BE IN.
+Thank you.
 # FITNESS ACTIVITY TRACKER
 ## Contents
 1. Description
