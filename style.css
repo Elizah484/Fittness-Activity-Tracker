@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(240, 241, 255, 0.589);
+    color: #333;
+}
+header {
+    background-color: #4caf9ea9;
+    color: #ffffffb0;
+    font-size: small;
+    text-align: center;
+    padding: 1rem;
+}
+main {
+    display: -ms-inline-flexbox;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 2rem;
+}
+.metric {
+    background-color: #ffffff36;
+    margin: 1rem;
+    border-radius: 8px;
+    text-align: center;
+    padding: 1.5rem;
+}
+.metric h3 {
+    color: #4caf4ff6;
+    margin-bottom: 1rem;
+}
+input, button {
+    width: 75%;
+    margin-top:0.5rem;
+}
+.progress-container {
+    width: 100%;
+    height: 20px;
+    background-color:bisque;
+    border-radius: 10PX;
+    margin-top:1Opx;
+    overflow: hidden;
+}
+#progress-bar {
+    height: 100%;
+    background-color: #28a745;
+    width: 0;
+    transition: width 0.3s ease-in-out;
+}
+.progress-tracker {
+    width: 300px;
+    border-radius: 8px;
+    text-align: center;
+    padding: 1.5rem;
+    background: rgb(130, 238, 233);
+    border: 1px solid #add;
+}
+.progress-tracker h3 {
+    color: #4CAF50;
+}
+button {
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    color: lightcoral;
+}
+button:hover {
+    background-color: rgb(220, 245, 224);
+}
+footer {
+    text-align: center;
+    padding: 1rem;
+    color: rgba(255, 253, 127, 0.781);
+    background-color: #4caf9ea9;
+}    
